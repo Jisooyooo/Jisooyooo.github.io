@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+}
+p {
+    text-align: right;
+}
+#pata, #beta {
+    text-align: right;
+}
+.login:hover {text-align: center;}
+
+input[type=text] {background-color: blue;}
+input[type=password] {background-color: red;}
+
+.button:active {color: aqua;}
